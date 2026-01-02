@@ -1,0 +1,23 @@
+public enum BoneTypePlayer
+{
+	Hips,
+	Butt,
+	Spine,
+	Chest,
+	Neck,
+	Head,
+	rArmUpper,
+	rArmLower,
+	rHand,
+	lArmUpper,
+	lArmLower,
+	lHand,
+	rLegUpper,
+	rLegLower,
+	rFoot,
+	lLegUpper,
+	lLegLower,
+	lFoot,
+	Ear,
+	Face
+}
